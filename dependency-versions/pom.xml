@@ -115,7 +115,7 @@
         <junit4.vespa.version>4.13.2</junit4.vespa.version>
         <luben.zstd.vespa.version>1.5.5-10</luben.zstd.vespa.version>
         <lucene.vespa.version>9.8.0</lucene.vespa.version>
-        <maven-archiver.vespa.version>3.6.1</maven-archiver.vespa.version>
+        <maven-archiver.vespa.version>3.6.2</maven-archiver.vespa.version>
         <maven-wagon.vespa.version>3.5.3</maven-wagon.vespa.version>
         <mimepull.vespa.version>1.10.0</mimepull.vespa.version>
         <mockito.vespa.version>5.7.0</mockito.vespa.version>
