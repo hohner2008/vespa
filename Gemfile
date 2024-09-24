@@ -19,7 +19,7 @@ gem "minima", "~> 2.0"
 gem "kramdown-parser-gfm"
 
 # Work-around for webrick no longer included in Ruby 3.0 (https://github.com/jekyll/jekyll/issues/8523)
-gem "webrick"
+gem "webrick", ">= 1.8.2"
 
 # Get the html-proofer to work
 gem 'rake'
